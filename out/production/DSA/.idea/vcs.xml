@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BinarySearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CyclicSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinearSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MathsForDSA1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Method_Function in Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Methods_or_functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sorting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Strings_and_StringBuilders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditions_code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsa_java_program1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switch" vcs="Git" />
+  </component>
+</project>

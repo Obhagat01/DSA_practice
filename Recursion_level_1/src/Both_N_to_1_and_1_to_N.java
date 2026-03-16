@@ -3,7 +3,7 @@ public class Both_N_to_1_and_1_to_N {
         funBoth(5);
 
     }
-    private static void funBoth(int n){
+    public static void funBoth(int n){
         if(n==0){
             return ;
         }

@@ -16,7 +16,6 @@ public class StaticBlcok {
 
         StaticBlcok.b+=3;
         System.out.println(StaticBlcok.a+" "+StaticBlcok.b);
-
         StaticBlcok obj2=new StaticBlcok();
 
         System.out.println(StaticBlcok.a+" "+StaticBlcok.b);

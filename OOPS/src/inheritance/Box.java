@@ -28,4 +28,8 @@ public class Box {
     public void information(){
         System.out.println("Running the box");
     }
+    //to check if the static method can get overridden or not
+    public  static void greeting(){
+        System.out.println("hello,I am in Box Class!!");
+    }
 }

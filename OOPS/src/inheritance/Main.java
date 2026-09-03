@@ -15,6 +15,8 @@ public class Main {
         BoxWeight b4=new BoxWeight(2,3,4,5);
         System.out.println(b4.weight);
 
+        b4.greeting();// you can inhereit but you can't override it
+
 
         Box b5=new BoxWeight(2,3,5,6);
        // System.out.println(b5.weight); error this is actually the type of reference variable and not the type of object

@@ -22,6 +22,10 @@ public class BoxWeight extends Box{
         super(other);
         weight= other.weight;
     }
+//    //@Override -you can't override a static method
+//    public void greeting(){
+//        System.out.println("hey!!,I am in BoxWEIGHT Class!!");
+//    }
 
 
 }
